@@ -6,7 +6,7 @@
 
 ### contract
 - A contract defines rights and responsibilities of one party, as well as those of the other party.
-- There is an agreement concerning reprecussions if either party fails to abide by the contract
+- There is an agreement concerning repercussions if either party fails to abide by the contract
 - Employment contract
   - work hours
   - rules of conduct to folllow

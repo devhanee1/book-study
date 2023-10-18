@@ -24,7 +24,7 @@ We use daybooks
 - You can continue to concentrate on what you are doing
 - Knowing that the grate idea won't be forgotten
 #### Acts as a kind of rubber duck
-- When you stop to write somethig down, your brai may switch gears, almost as if talking to someone
+- When you stop to write somethig down, your brain may switch gears, almost as if talking to someone
 - A great chance to reflect
 
 ### Other benefit
