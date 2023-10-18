@@ -194,5 +194,5 @@ Is Design by Contract needed in a world where developers practice unit testing, 
 - Point to ponder : If DBC is so powerful, why isn't it used more widely?
 - It it hard to come up with the contract?
 - Does it make you think about issues you'd rather ignore for now?
-- DOes it force you to THINK!?
+- Does it force you to THINK!?
 - Clearly, this is a dangerous tool!
